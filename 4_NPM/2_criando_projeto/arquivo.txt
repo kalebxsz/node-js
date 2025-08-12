@@ -1,0 +1,3 @@
+// NPM INIT 
+
+// npm init >>> comando que inicia um projeto em node, após o enter, será solicitado algumas informações para compor no package.json 

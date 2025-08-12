@@ -1,0 +1,5 @@
+NPM UPDATE  ===> atualiza todos os pacotes do projeto
+
+NPM UPDATE <nome do pacote>  ==> atualiza um pacote especifico e não todos os pacotes do projeto
+
+NPX NPM-CHECK-UPDATE -U  ===>> VAI VERIFICAR SE ALGUMA DEPENDENCIA DO PROJETO PRECISA SER ATUALIZADA 

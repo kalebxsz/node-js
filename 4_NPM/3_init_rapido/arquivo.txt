@@ -1,0 +1,3 @@
+// NPM INIT 
+
+//  npm init -y >>>> comando que inicia sem precisar responder as perguntas default 
