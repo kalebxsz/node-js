@@ -110,6 +110,9 @@ function deposit() {
       }
     ]).then((answer) =>{
 
+      const amount = answer['amount']
+      //add an amount
+
     }).catch((err) => console.log(err))
     
   })
@@ -123,3 +126,4 @@ function checkAccount(accountName) {
   }
   return true
 }
+
